@@ -33,4 +33,4 @@ public:
 
 ##### 所有非0元素前移之后，剩余的元素置为0
 
-![283_MoveZeros](F:\Code\Tutorial\05_leetcode\00_Order\283_MoveZeros.gif)
+![283_MoveZeros](283_MoveZeros.assets/283_MoveZeros.gif)
